@@ -1,0 +1,46 @@
+{
+    "trucks": [
+        {
+            "city": "San Diego",
+            "address": "456 Elm Avenue",
+            "phone": "360-555-5678",
+            "imageurl": "images/logo2.jpg",
+            "day": "Monday"
+        },
+        {
+            "city": "Del Mar",
+            "address": "555 Juniper Street",
+            "phone": "360-555-9012",
+            "imageurl": "images/logo3.jpg",
+            "day": "Tuesday"
+        },
+        {
+            "city": "Encinitas",
+            "address": "981 Vista Blvd.",
+            "phone": "360-535-8812",
+            "imageurl": "images/logo4.jpg",
+            "day": "Wednesday"
+        },
+        {
+            "city": "Solana Beach",
+            "address": "8900 Poway Street",
+            "phone": "360-785-9992",
+            "imageurl": "images/logo5.jpg",
+            "day": "Thursday"
+        },
+        {
+            "city": "Laguna Beach",
+            "address": "132 La Mesa Ave",
+            "phone": "360-255-1112",
+            "imageurl": "images/logo6.jpg",
+            "day": "Friday"
+        },
+        {
+            "city": "San Clamente",
+            "address": "789 Deluz Street",
+            "phone": "360-905-0002",
+            "imageurl": "images/logo7.jpg",
+            "day": "Saturday"
+        }
+    ]
+}
